@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.docker {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 1rem;
+}
+
+.docker:hover {
+  width: 4%;
+}
+
+body {
+  /* margin: 0; */
+  background-image: url(src/bgimg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  /* overflow: hidden; */
+}
+
+.navbar {
+  /* background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px; */
+  /* position: absolute; */
+}
+
+/* Style the links inside the navigation bar */
+
+.navbar a {
+  /* float: left;  */
+  /* display: block;  */
+  /* color: #f2f2f2; */
+  /* text-align: center;
+  padding: 10px 20px;
+  text-decoration: none; */
+  position: absolute;
+  background: aquamarine;
+  text-decoration: none;
+  font-family: "Baloo Tamma 2", cursive;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 11px;
+  border: 2px solid black;
+  margin-left: 43rem;
+  margin-top: 42rem;
+  padding: 2.5px;
+  font-weight: bold;
+}
+
+/* Change the color of links on hover */
+
+.navbar a:hover {
+  font-size: 21px;
+  animation: color-change 1s linear infinite;
+}
+
+/* Add a color to the active/current link */
+
+.navbar a.active {
+  /* background-color: #c25903; */
+  /* color: white; */
+  /* text-decoration: underline; */
+}
+
+@keyframes color-change {
+  0%, 100% {
+    filter: hue-rotate(0deg);
+  }
+  50% {
+    filter: hue-rotate(360deg);
+  }
+}
