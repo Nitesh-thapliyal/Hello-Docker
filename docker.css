@@ -10,6 +10,11 @@ body {
 
 .navbar{
   background-color: rgb(54, 54, 54);
+
+}
+.navbar a:hover {
+  background-color: #c25903;
+  color: black;
 }
 
 .img-2 {
