@@ -27,7 +27,7 @@ body {
 
 .navbar a {
   position: absolute;
-  background: aquamarine;
+  background: orange;
   text-decoration: none;
   font-family: "Baloo Tamma 2", cursive;
   cursor: pointer;
@@ -44,7 +44,7 @@ body {
 
 .navbar a:hover {
   font-size: 21px;
-  animation: color-change 1s linear infinite;
+  animation: color-change 9s linear infinite;
 }
 
 @keyframes color-change {
