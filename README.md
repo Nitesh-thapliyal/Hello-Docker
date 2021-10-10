@@ -27,11 +27,16 @@
 
 ![Screenshot (557)](https://user-images.githubusercontent.com/68494604/136685028-735751fd-4d01-4b53-a394-dc34b84aa976.png)
 
-# Check out the demo video here [link](https://www.youtube.com/watch?v=KJEWlECtOBI&feature=youtu.be)
+# Check out the Project demo video here [link](https://www.youtube.com/watch?v=KJEWlECtOBI&feature=youtu.be)
 
 # Want to install docker?
 
 Check out the installation guide here [docker link](https://runnable.com/docker/install-docker-on-windows-10)
 
-
+<p align="center">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
+  
+  <br>
+  <strong>Happy Coding</strong> ❤️
+</p>
 
