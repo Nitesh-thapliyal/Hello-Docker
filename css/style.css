@@ -15,7 +15,7 @@
 
 body {
   /* margin: 0; */
-  background-image: url(src/bgimg.png);
+  background-image: url(../src/bgimg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -23,26 +23,9 @@ body {
   /* overflow: hidden; */
 }
 
-.navbar {
-  /* background-color: #333;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  padding: 15px; */
-  /* position: absolute; */
-}
-
 /* Style the links inside the navigation bar */
 
 .navbar a {
-  /* float: left;  */
-  /* display: block;  */
-  /* color: #f2f2f2; */
-  /* text-align: center;
-  padding: 10px 20px;
-  text-decoration: none; */
   position: absolute;
   background: aquamarine;
   text-decoration: none;
@@ -62,14 +45,6 @@ body {
 .navbar a:hover {
   font-size: 21px;
   animation: color-change 1s linear infinite;
-}
-
-/* Add a color to the active/current link */
-
-.navbar a.active {
-  /* background-color: #c25903; */
-  /* color: white; */
-  /* text-decoration: underline; */
 }
 
 @keyframes color-change {
