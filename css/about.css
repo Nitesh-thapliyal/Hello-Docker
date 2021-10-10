@@ -82,7 +82,7 @@ h1 {
 
 .second:hover {
     color: rgb(0, 113, 243);
-    font-size: 16.5px;
+    /* font-size: 16.5px; */
 }
 
 .docimg {
