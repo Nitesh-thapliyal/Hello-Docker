@@ -16,6 +16,12 @@
 
 ![Screenshot (556)](https://user-images.githubusercontent.com/68494604/136685026-8284117c-348e-4cad-bf1f-f411d38e5475.png)
 
+## Docker streamlines the development lifecycle by allowing developers to work in standardized environments using local containers which provide your applications and services.
+
+![doc1](https://user-images.githubusercontent.com/68494604/136685187-1be79cbd-3c45-4d37-a636-493f5dd09de7.gif)
+
+
+## Containers are great for continuous integration and continuous delivery (CI/CD) workflows.
 
 ![Screenshot (557)](https://user-images.githubusercontent.com/68494604/136685028-735751fd-4d01-4b53-a394-dc34b84aa976.png)
 
